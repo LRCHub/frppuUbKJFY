@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "またね幻",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-23T12:40:39.526483Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "またね幻",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_またね幻_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "またね幻",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_またね幻_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "またね幻 - Matane Maboroshi",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_またね幻_-_Matane_Maboroshi_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "またね幻 (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_またね幻_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "またね幻",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_またね幻_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "またね幻 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_またね幻_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またね幻",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_またね幻_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
